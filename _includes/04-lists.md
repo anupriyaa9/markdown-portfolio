@@ -1,10 +1,5 @@
-<ol>
-  <li>github</li>
-  <li>html</li>
-  <li>markdown</li>
-</ol>
-<ul>
-  <li>github</li>
-  <li>html</li>
-  <li>markdown</li>
- </ul>
+- item
+- instagram
+- facebook
+- whatsapp
+- snapchat
